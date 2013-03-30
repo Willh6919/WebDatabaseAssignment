@@ -1,0 +1,21 @@
+/* 
+    Document   : custom-style
+    Created on : 14-Mar-2013, 10:56:16
+    Author     : willh6919
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body{
+    background-color:white;
+    background-image:url('../img/background.jpg');
+    
+}
+
+#head{
+    
+}
